@@ -1,0 +1,19 @@
+{
+  "wheel_id": 366,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationnorthbrisbane-com-150",
+  "project": "kitchen-renovation-north-brisbane-4a66b097f4088b4778bbbcf3b1b78",
+  "parent_t1_ref": "kitchenrenovationnorthbrisbane.com-003",
+  "node_role": "buffer",
+  "money_target": "kitchenrenovationnorthbrisbane.com.au",
+  "primary_kw": "kitchen renovation north brisbane",
+  "intended_url": "https://sites-e470-2.web.app/kitchen-renovation-north-brisbane-4a66b097f4088b4778bbbcf3b1b78/",
+  "writeback_nonce": "d7881df57b8cd942",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovation-north-brisbane/",
+      "anchor": "kitchen renovation north brisbane",
+      "rel": "follow"
+    }
+  ]
+}
